@@ -1,0 +1,52 @@
+.nav{
+  padding:2px;
+  display:inline-block;
+
+}
+.btn{
+  background-color:rgb(250,200,100);
+  border-radius:20px;
+  padding:10px 2x;
+}
+
+.home{
+  background-color:rgb(200,210,150);
+  background-size:cover;
+  hieght:100%; 
+}
+.container{
+  text-align:center;
+  display:flex;
+  padding-left:10px;
+  justify-content:center;
+  align-item:center;
+    height:20vh;
+  }
+
+.button{
+  background-color:rgb(203,200,100) ;
+  border-radius:20px;
+ 
+}
+.reading{
+  padding-left:5%;
+  margin-left: 10px;
+  display:inline-block;
+}
+
+.fontt{
+font-size:1.3em ;
+}
+.contact{
+  padding-left: 10px;
+  text-align:center;
+  display: inline-block;
+
+}
+.bnt{
+background-color: rebeccapurple;
+border-radius: 20%;
+}
+.bok{
+  text-emphasis-color:blue;
+} 
